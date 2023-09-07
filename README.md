@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **NLP frameworks, TensorFlow**
 
-- 💬 Ask me about **java, REACT**
+- 💬 Ask me about **JAVA, REACT, TensorFlow**
 
 - 📫 How to reach me **arnav26arya@gmail.com**
 
