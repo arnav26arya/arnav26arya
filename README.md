@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Arnav Arya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/7L-YtLAv-MNXt1rqPDi1hVgzxRpVHrEayxSB70HgBnE/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtZmF0LW1hbi1j/b2RpbmctdXNpbmct/ZmVldC1rZXZuNmpr/YWc3amF1aGs4Lmdp/Zg.gif">
@@ -30,3 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arnav26arya&show_icons=true&locale=en" alt="arnav26arya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arnav26arya&" alt="arnav26arya" /></p>
+
