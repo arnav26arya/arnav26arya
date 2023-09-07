@@ -1,4 +1,4 @@
-[![MasterHead](https://imgs.search.brave.com/wL6_z0iRzXFgEgpTxer-xUpHsj5mKFXCHO_B_JasyJA/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/cjc3U2M0SjI1Sk1B/QUFBTS9iYW5uZXIu/Z2lm.gif)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Arnav Arya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/7L-YtLAv-MNXt1rqPDi1hVgzxRpVHrEayxSB70HgBnE/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtZmF0LW1hbi1j/b2RpbmctdXNpbmct/ZmVldC1rZXZuNmpr/YWc3amF1aGs4Lmdp/Zg.gif">
