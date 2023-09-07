@@ -3,10 +3,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/7L-YtLAv-MNXt1rqPDi1hVgzxRpVHrEayxSB70HgBnE/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtZmF0LW1hbi1j/b2RpbmctdXNpbmct/ZmVldC1rZXZuNmpr/YWc3amF1aGs4Lmdp/Zg.gif">
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnav26arya&label=Profile%20views&color=0e75b6&style=flat" alt="arnav26arya" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnav26arya" alt="arnav26arya" /></a> </p>
 
 - 🔭 I’m currently working on **Support Ticket Chatbot**
 
