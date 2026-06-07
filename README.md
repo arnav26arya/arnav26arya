@@ -1,30 +1,104 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Arnav Arya</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/7L-YtLAv-MNXt1rqPDi1hVgzxRpVHrEayxSB70HgBnE/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtZmF0LW1hbi1j/b2RpbmctdXNpbmct/ZmVldC1rZXZuNmpr/YWc3amF1aGs4Lmdp/Zg.gif">
+```
+╔═══════════════════════════════════════════════════════════╗
+║                                                           ║
+║   ARNAV ARYA  ·  Software Engineer  ·  AI/ML             ║
+║                                                           ║
+╚═══════════════════════════════════════════════════════════╝
+```
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arnav26arya&label=Profile%20views&color=0e75b6&style=flat" alt="arnav26arya" /> </p>
+**Building production systems at the intersection of backend engineering, data pipelines, and AI.**
 
-- 🔭 I’m currently working on **Support Ticket Chatbot**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnav-arya-34b333276)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:arnav26arya@gmail.com)
+[![IEEE](https://img.shields.io/badge/IEEE_Published-00629B?style=flat-square&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/11307890)
 
-- 🌱 I’m currently learning **NLP frameworks, TensorFlow**
+</div>
 
-- 💬 Ask me about **java, REACT**
+---
 
-- 📫 How to reach me **arnav26arya@gmail.com**
+## About
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/arnav-arya-34b333276" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arnav-arya-34b333276" height="30" width="40" /></a>
-<a href="https://instagram.com/arnvrya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arnvrya" height="30" width="40" /></a>
-</p>
+Software Engineer with experience across backend systems, data pipelines, and AI/ML.  
+I build things end to end — from real-time event processing and log ingestion to LLM-powered applications and computer vision pipelines.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+- 🔧 Currently building production Python + Elasticsearch pipelines and OpenAI API tooling
+- 📄 Published researcher — IEEE i-PACT 2025 · EEG-based ML classification
+- 🎓 B.Tech Computer Science · VIT · CGPA 8.19
+- 📬 Open to **SWE · ML Engineer · Data Engineer** roles at product companies
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arnav26arya&show_icons=true&locale=en&layout=compact" alt="arnav26arya" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arnav26arya&show_icons=true&locale=en" alt="arnav26arya" /></p>
+## Tech Stack
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arnav26arya&" alt="arnav26arya" /></p>
+**Languages**
+```
+Python   Java   C++   C   SQL   R   MATLAB
+```
+
+**AI / ML**
+```
+TensorFlow   Keras   Scikit-learn   DSPy   OpenCV   PaddleOCR   OpenAI API   MindsDB
+```
+
+**Data & Databases**
+```
+Elasticsearch   PostgreSQL   MySQL   MongoDB   ChromaDB
+Logstash   Kibana   ELK Stack
+```
+
+**Cloud & DevOps**
+```
+AWS   Microsoft Azure   Docker   GitHub Actions   CI/CD
+```
+
+**Core Areas**
+```
+Backend Development · Distributed Systems · Real-time Data Pipelines · System Design · AI/ML
+```
+
+---
+
+## Work
+
+**PwC India** · Software Engineer — Data & AI *(Jan 2025 – Present)*
+> Built Python + ELK log ingestion pipeline (300+ events/day), deployed OpenAI API chatbot on client infra, engineered real-time classification and alerting systems.
+
+**Altnrd Inc.** · Software Engineer Intern *(Oct 2024 – Dec 2024)*
+> Predictive diagnostics on OBD-II telemetry · DSPy-based LLM anomaly detection · Real-time fleet health dashboard.
+
+**Heera Software** · Machine Learning Intern *(Sept 2023 – Nov 2023)*
+> TensorFlow/Keras NLP chatbot · End-to-end ML pipeline · Intent classification (F1: 0.78 → 0.89).
+
+---
+
+## Projects
+
+**[SentinelAI](#)**
+> Real-time CV pipeline at 25+ FPS · 6 containerised microservices · Fault-tolerant WebSocket supporting 50+ concurrent connections.
+
+**[Amazon ML Challenge](#)**
+> PaddleOCR + OpenCV pipeline · 310,000+ product images · 0.51 F1-score at production scale.
+
+**[Real-time Sign Language Detection](#)**
+> LSTM over MediaPipe hand-landmark sequences · 90%+ accuracy · Edge-deployable.
+
+---
+
+## Publication
+
+**EEG-based Mental Health Analysis and Classification for Healthy Brain Network (HBN)**  
+*IEEE i-PACT 2025 · University of Airlangga, Indonesia*  
+ML pipeline for cognitive state classification using multi-feature EEG extraction — outperforming SOTA methods.  
+→ [View on IEEE Xplore](https://ieeexplore.ieee.org/document/11307890)
+
+---
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arnav26arya&show_icons=true&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)
+&nbsp;&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=arnav26arya&layout=compact&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=8b949e)
+
+</div>
