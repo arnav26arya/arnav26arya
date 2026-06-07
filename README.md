@@ -1,11 +1,11 @@
 <div align="center">
 
 ```
-╔═══════════════════════════════════════════════════════════╗
-║                                                           ║
-║   ARNAV ARYA  ·  Software Engineer  ·  AI/ML             ║
-║                                                           ║
-╚═══════════════════════════════════════════════════════════╝
+╔═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                                                                                                 ║
+║                                                           ARNAV ARYA  ·  Software Engineer  ·  AI/ML                                                            ║
+║                                                                                                                                                                 ║
+╚═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
 **Building production systems at the intersection of backend engineering, data pipelines, and AI.**
@@ -94,11 +94,3 @@ ML pipeline for cognitive state classification using multi-feature EEG extractio
 → [View on IEEE Xplore](https://ieeexplore.ieee.org/document/11307890)
 
 ---
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arnav26arya&show_icons=true&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=arnav26arya&layout=compact&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=8b949e)
-
-</div>
